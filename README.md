@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center"> Hi im Erick 👋</h1>
 
-<!--
-**er-Vega/er-Vega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **About me** 
+I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eage for learn and improve my knowledge, currently studying 3rt sem , im passionate about the world of technology and i am building a solid foundation in it.
 
-Here are some ideas to get you started:
+- 💻 **Skills**
+  - Programming logic
+  - C, Python (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱**i´m currently learnig...**
+  - Cibersegurity fundamentals
+  - Linux fundamentals
+  - Networks fundamentals
+  - Java
+  - Linux
+  
+# 
+### 📫 Contacto
+- [LinkedIn](https://www.linkedin.com/in/erick-vega-escobar-433843323/ "Perfil de LinkedIn")
