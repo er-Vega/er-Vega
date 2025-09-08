@@ -17,5 +17,5 @@ I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eage for 
   - Linux
 
 # 
-### 📫 Contacto
+### 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/erick-vega-escobar-433843323/ "Perfil de LinkedIn")
