@@ -14,7 +14,7 @@ I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for
   - Linux fundamentals
   - Networks fundamentals
   - Java
-  - Linux
+
 
 # 
 ### 📫 Contact
