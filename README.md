@@ -16,6 +16,8 @@ I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for
   - object-oriented Python
   - Cibersegurity fundamentals
   - Networks fundamentals
+  - github
+    
 
 
 #### 📫 Contact
