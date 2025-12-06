@@ -22,5 +22,3 @@ I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/erick-vega-escobar-433843323/ "Perfil de LinkedIn")
