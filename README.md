@@ -1,7 +1,7 @@
 <h1 align="center"> Hi im Erick 👋</h1>
 
 ## ***About me*** 
-I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for learn and improve my knowledge, currently studying 3rt sem , im passionate about the world of technology, cybersecurity and i am building a solid foundation in it.
+I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for learn and improve my knowledge, currently studying 4rt sem , im passionate about the world of technology, cybersecurity and i am building a solid foundation in it.
 - 🎯**Goal**
   - My goal is be an cybersecurity specialist to help to build an safer digital enviroment. Currently im learning diferentes skills and fundaments to achieve it.
 
