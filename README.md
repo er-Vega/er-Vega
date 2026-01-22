@@ -6,12 +6,11 @@ I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for
   - My goal is be an cybersecurity specialist to help to build an safer digital enviroment. Currently im learning diferentes skills and fundaments to achieve it.
 
 - 💻 **Skills**
-  - Programming logic
-  - C
-  - Python
-  - Java
-  - Bash Scripting
-  - Linux fundamentals
+- C (core concepts)
+- Python (fundamentals)
+- Java (fundamentals)
+- Bash scripting (basics)
+- Linux fundamentals
 
 - 🌱**i´m currently learnig...**
   - Offensive Python
