@@ -7,16 +7,18 @@ I am an under graduate Software Engineer student at FMAT UADY 🎓. Im eager for
 
 - 💻 **Skills**
   - Programming logic
-  - C, Python (basics)
+  - C
+  - Python
   - Java
+  - Bash Scripting
   - Linux fundamentals
 
 - 🌱**i´m currently learnig...**
   - Offensive Python
-  - object-oriented Python
+  - Object-oriented Python
   - Cibersegurity fundamentals
   - Networks fundamentals
-  - github
+  - Github
     
 
 
